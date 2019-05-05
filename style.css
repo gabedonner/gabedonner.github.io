@@ -3,26 +3,6 @@
     src: url(Aileron-Black.otf);
 }
 
-@font-face {
-    font-family: Aileron-SemiBold;
-    src: url(Aileron-SemiBold.otf);
-}
-
-@font-face {
-    font-family: Aileron-Bold;
-    src: url(Aileron-Bold.otf);
-}
-
-@font-face {
-    font-family: Aileron-Regular;
-    src: url(Aileron-Regular.otf);
-}
-
-@font-face {
-    font-family: Aileron-Light;
-    src: url(Aileron-Light.otf);
-}
-
 *:focus {outline: 0;}
 
 /*colors og (red: #cf4436) (black: #212121) (white: #ffffff)*/
@@ -41,7 +21,7 @@ html {
 }
 
 html body {
-    font-family: "Aileron-SemiBold";
+    font-family: Big Caslon;
     background: #ffffff; /*#e5e3d9*/
     color: #0D0D0D; /*#474644*/
     margin: 0;
@@ -264,7 +244,7 @@ a:hover {
 
     #title-container #title a {
         color: #0D0D0D;
-        font-family: "Aileron-Black";
+        font-family: Big Caslon;
         font-size: 30px;
         line-height: 20px;
         margin-bottom: 30px;
