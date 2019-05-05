@@ -27,7 +27,7 @@ html {
 }
 
 html body {
-    font-family: eb-garamond, sans-serif;    
+    font-family: 'Crimson Text', serif;
     font-style: normal;
     font-weight: 400;
     background: #ffffff; /*#e5e3d9*/
@@ -252,7 +252,7 @@ a:hover {
 
     #title-container #title a {
         color: #0D0D0D;
-        font-family: eb-garamond, sans-serif;       
+        font-family: 'Crimson Text', serif;
         font-size: 30px;
         line-height: 20px;
         margin-bottom: 30px;
