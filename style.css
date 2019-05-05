@@ -1,6 +1,11 @@
 @font-face {
     font-family: Aileron-Black;
-    src: url(Aileron-Black.otf);
+    src: url('Aileron-Black.otf');
+}
+
+@font-face {
+    font-family: Big Caslon Medium;
+    src: url('Caslon335Medium Regular.ttf') format('truetype');
 }
 
 *:focus {outline: 0;}
