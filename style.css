@@ -46,8 +46,8 @@ html body #main {
 }
 
 .wrapper {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
     height: calc(100vh - 100px);
     overflow: hidden;
 }
